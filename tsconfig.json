@@ -27,6 +27,6 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts"
-, "app/page.jsx", "app/layout.jsx", "next.config.js", "components/ui/tooltip.jsx", "components/ui/toaster.jsx", "components/ui/provider.jsx", "components/ui/color-mode.jsx"  ],
+, "app/page.jsx", "app/layout.jsx", "next.config.js", "components/ui/tooltip.jsx", "components/ui/toaster.jsx", "components/ui/provider.jsx", "components/ui/ColorMode.jsx"  ],
   "exclude": ["node_modules"]
 }
